@@ -18,4 +18,4 @@ isOdd.o: isOdd.c
 	$(CC) $(CFLAGS) isOdd.c
 
 clean:
-	rm -rf *.o 
+	rm -rf *.o
